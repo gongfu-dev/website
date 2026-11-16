@@ -2,7 +2,7 @@
 
 Website of Gōng-fu DEV meetup, rewritten as a progressive web app (PWA).
 
-For our current productive website, visit the [gongfudev.github.com](https://github.com/gongfudev/gongfudev.github.com) repository.
+For our current productive website, visit the [gongfudev.github.com](https://github.com/gongfu-dev/gongfudev.github.com) repository.
 
 ## Status
 

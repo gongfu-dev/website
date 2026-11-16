@@ -1,14 +1,14 @@
 # Migration scripts
 
-Scripts to migrate past sessions reports from [GitHub Issues](https://github.com/gongfudev/website/issues) to an Astro content collection.
+Scripts to migrate past sessions reports from [GitHub Issues](https://github.com/gongfu-dev/website/issues) to an Astro content collection.
 
 ## Website
 
-The `sessions` page displays a sampling of session cards that reproduce the content of the corresponding [session](https://github.com/gongfudev/sessions) issues.
+The `sessions` page displays a sampling of session cards that reproduce the content of the corresponding [session](https://github.com/gongfu-dev/sessions) issues.
 
 ## Updating the website
 
-This project has two node scripts used for the development of the website and updating from [session](https://github.com/gongfudev/sessions) data.
+This project has two node scripts used for the development of the website and updating from [session](https://github.com/gongfu-dev/sessions) data.
 
 1. fetch data and save locally:
 

@@ -1,7 +1,7 @@
 {
   "name": "@gongfudev/website",
   "description": "Website of Gōng-fu DEV, built with Astro, Shoelace and Lit",
-  "author": "Gōng-fu DEV (https://github.com/gongfudev)",
+  "author": "Gōng-fu DEV (https://github.com/gongfu-dev)",
   "license": "Apache-2.0",
   "type": "module",
   "version": "1.0.0",
@@ -42,12 +42,12 @@
   "publishConfig": {
     "access": "restricted"
   },
-  "homepage": "https://github.com/gongfudev/website#readme",
+  "homepage": "https://github.com/gongfu-dev/website#readme",
   "bugs": {
-    "url": "https://github.com/gongfudev/website/issues"
+    "url": "https://github.com/gongfu-dev/website/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh@github.com:gongfudev/website.git"
+    "url": "git+ssh@github.com:gongfu-dev/website.git"
   }
 }
