@@ -13,7 +13,7 @@ audiences: []
 ## Projets
 
 * [Bouboucle Server](https://github.com/andreaskundig/bou-serveur), back-end server in Clojure — @david-hodgetts et @andreaskundig
-* [HappUI](https://github.com/gongfuio/happui), ajout nouveaux contrôles — @rudifa, @egoes et @olange
+* [HappUI](https://github.com/gongfu-dev/happui), ajout nouveaux contrôles — @rudifa, @egoes et @olange
 * [Webflow](https://webflow.com), étude et essais — @qintheory
 
 ## Références

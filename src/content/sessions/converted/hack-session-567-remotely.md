@@ -41,8 +41,8 @@ Getting to know each other, presentation of the Gōng-fu I/O sessions and exchan
 
 ## See also
 
-* [#569](https://github.com/gongfuio/sessions/issues/569#issuecomment-1489476902) Next feedback
-* [#566](https://github.com/gongfuio/sessions/issues/566#issuecomment-1461680189) Previous feedback
+* [#569](https://github.com/gongfu-dev/sessions/issues/569#issuecomment-1489476902) Next feedback
+* [#566](https://github.com/gongfu-dev/sessions/issues/566#issuecomment-1461680189) Previous feedback
 
 
 [olange](https://github.com/olange) | 2023-03-22

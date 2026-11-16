@@ -26,8 +26,8 @@ https://observablehq.com/@olange/hexgrid-game-board
 
 ## See also
 
-* [#463](https://github.com/gongfuio/sessions/issues/463#issuecomment-796625983) Previous feedback
-* [#474](https://github.com/gongfuio/sessions/issues/474#issuecomment-853290312) Next feedback
+* [#463](https://github.com/gongfu-dev/sessions/issues/463#issuecomment-796625983) Previous feedback
+* [#474](https://github.com/gongfu-dev/sessions/issues/474#issuecomment-853290312) Next feedback
 
 [olange](https://github.com/olange) | 2021-06-02
 

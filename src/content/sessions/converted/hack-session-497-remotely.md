@@ -40,8 +40,8 @@ Wrap-up of our [Gōng-fu I/O Weekly · Hack Session #497 ✼ Remotely ✼](https
 
 ## See also
 
-* [#496](https://github.com/gongfuio/sessions/issues/496#issuecomment-960635720) Previous feedback
-* [#498](https://github.com/gongfuio/sessions/issues/498#issuecomment-984152481) Next feedback
+* [#496](https://github.com/gongfu-dev/sessions/issues/496#issuecomment-960635720) Previous feedback
+* [#498](https://github.com/gongfu-dev/sessions/issues/498#issuecomment-984152481) Next feedback
 
 [olange](https://github.com/olange) | 2021-11-11
 

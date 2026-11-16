@@ -23,7 +23,7 @@ import { writeFile } from "fs/promises";
 
 const usage =
   "\nThis script fetches issues from the specified github repo and saves them to a file or prints them to stdout, in JSON format.";
-const owner = "gongfudev";
+const owner = "gongfu-dev";
 const repo = "sessions";
 const outfile = "src/data/issues.json";
 

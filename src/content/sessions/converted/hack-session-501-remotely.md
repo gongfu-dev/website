@@ -64,8 +64,8 @@ But before addressing this issue of increasing the number of available areas, we
 
 ## See also
 
-* [#500](https://github.com/gongfuio/sessions/issues/500#issuecomment-984143254) Previous feedback
-* [#502](https://github.com/gongfuio/sessions/issues/502#issuecomment-995340436) Next feedback
+* [#500](https://github.com/gongfu-dev/sessions/issues/500#issuecomment-984143254) Previous feedback
+* [#502](https://github.com/gongfu-dev/sessions/issues/502#issuecomment-995340436) Next feedback
 
 [olange](https://github.com/olange) | 2021-12-08
 

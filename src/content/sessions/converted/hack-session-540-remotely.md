@@ -41,8 +41,8 @@ Also took on isolating the geometry construction process in a Lit controller, to
 
 ## See also
 
-* [#542](https://github.com/gongfuio/sessions/issues/542#issuecomment-1252401700) Next feedback
-* [#536](https://github.com/gongfuio/sessions/issues/536#issuecomment-1210488376) Previous feedback
+* [#542](https://github.com/gongfu-dev/sessions/issues/542#issuecomment-1252401700) Next feedback
+* [#536](https://github.com/gongfu-dev/sessions/issues/536#issuecomment-1210488376) Previous feedback
 
 
 [olange](https://github.com/olange) | 2022-09-08

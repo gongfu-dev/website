@@ -42,8 +42,8 @@ Worked on our [‹h3-minimap› web component](https://observablehq.com/@olange/
 
 ## See also
 
-* [#499](https://github.com/gongfuio/sessions/issues/499#issuecomment-984151455) Previous feedback
-* [#501](https://github.com/gongfuio/sessions/issues/501#issuecomment-989280143) Next feedback
+* [#499](https://github.com/gongfu-dev/sessions/issues/499#issuecomment-984151455) Previous feedback
+* [#501](https://github.com/gongfu-dev/sessions/issues/501#issuecomment-989280143) Next feedback
 
 [olange](https://github.com/olange) | 2021-12-01
 

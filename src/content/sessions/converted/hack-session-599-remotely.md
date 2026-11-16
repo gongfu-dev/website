@@ -44,8 +44,8 @@ As well as (unrelated to Signals):
 
 ## See also
 
-* [#603](https://github.com/gongfuio/sessions/issues/603#issuecomment-1823615002) Next feedback
-* [#587](https://github.com/gongfuio/sessions/issues/587#issuecomment-1662934725) Previous feedback
+* [#603](https://github.com/gongfu-dev/sessions/issues/603#issuecomment-1823615002) Next feedback
+* [#587](https://github.com/gongfu-dev/sessions/issues/587#issuecomment-1662934725) Previous feedback
 
 [olange](https://github.com/olange) | 2023-10-25
 

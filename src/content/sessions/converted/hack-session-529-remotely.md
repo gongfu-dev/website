@@ -43,8 +43,8 @@ Also, spent some time fiddling with the environment, as usual (sigh):
 
 ## See also
 
-* [#530](https://github.com/gongfuio/sessions/issues/530#issuecomment-1176576784) Next feedback
-* [#525](https://github.com/gongfuio/sessions/issues/525#issuecomment-1137916208) Previous feedback
+* [#530](https://github.com/gongfu-dev/sessions/issues/530#issuecomment-1176576784) Next feedback
+* [#525](https://github.com/gongfu-dev/sessions/issues/525#issuecomment-1137916208) Previous feedback
 
 [olange](https://github.com/olange) | 2022-06-23
 

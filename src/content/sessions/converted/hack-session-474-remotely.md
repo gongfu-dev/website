@@ -35,8 +35,8 @@ _and made a recap of what we'll need to represent the components of our game_
 
 ## See also
 
-* [#473](https://github.com/gongfuio/sessions/issues/473#issuecomment-853287830) Previous feedback
-* [#490](https://github.com/gongfuio/sessions/issues/490#issuecomment-925365087) Next feedback
+* [#473](https://github.com/gongfu-dev/sessions/issues/473#issuecomment-853287830) Previous feedback
+* [#490](https://github.com/gongfu-dev/sessions/issues/490#issuecomment-925365087) Next feedback
 
 [olange](https://github.com/olange) | 2021-06-02
 

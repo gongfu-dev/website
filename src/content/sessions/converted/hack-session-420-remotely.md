@@ -12,7 +12,7 @@ audiences: []
 
 ## Projets
 
-* [HappUI](https://github.com/gongfuio/happui) — @rudifa, @egoes, @olange 
+* [HappUI](https://github.com/gongfu-dev/happui) — @rudifa, @egoes, @olange 
 * [Résidence solo // à la maison](https://github.com/eviau/residencesolo) — @eviau
 
 [olange](https://github.com/olange) | 2020-05-27

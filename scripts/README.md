@@ -36,7 +36,7 @@ Options:
   -i, --invert     Invert the order of issues                          [boolean]
   -l, --log-rate   Log rate limit data from GitHub API                 [boolean]
   -r, --repo       Specify the repo               [string] [default: "sessions"]
-  -o, --owner      Specify the repo owner        [string] [default: "gongfudev"]
+  -o, --owner      Specify the repo owner        [string] [default: "gongfu-dev"]
   -s, --save       Save the fetched issues to src/data/issues.json     [boolean]
   -h, --help       Show help                                           [boolean]
 ```

@@ -66,8 +66,8 @@ It's been a while! tooling has wonderfully evolved since 2013.
 
 ## See also
 
-* [#502](https://github.com/gongfuio/sessions/issues/502#issuecomment-995340436) Previous feedback
-* [#512](https://github.com/gongfuio/sessions/issues/512#issuecomment-1049279776) Next feedback
+* [#502](https://github.com/gongfu-dev/sessions/issues/502#issuecomment-995340436) Previous feedback
+* [#512](https://github.com/gongfu-dev/sessions/issues/512#issuecomment-1049279776) Next feedback
 
 [olange](https://github.com/olange) | 2022-01-05
 

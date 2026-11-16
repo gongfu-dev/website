@@ -34,8 +34,8 @@ Played with H3 geospatial coordinate system, studied its API and crafted an Obse
 
 ## See also
 
-* [#494](https://github.com/gongfuio/sessions/issues/494#issuecomment-948046523) Previous feedback
-* [#496](https://github.com/gongfuio/sessions/issues/496#issuecomment-960635720) Next feedback
+* [#494](https://github.com/gongfu-dev/sessions/issues/494#issuecomment-948046523) Previous feedback
+* [#496](https://github.com/gongfu-dev/sessions/issues/496#issuecomment-960635720) Next feedback
 
 [olange](https://github.com/olange) | 2021-10-28
 

@@ -38,8 +38,8 @@ Possible next step: [Build a Flutter Cupertino web app](https://codelabs.develop
 
 ## See also
 
-* [#550](https://github.com/gongfuio/sessions/issues/550#issuecomment-1314993768) Next feedback
-* [#540](https://github.com/gongfuio/sessions/issues/540#issuecomment-1240649475) Previous feedback
+* [#550](https://github.com/gongfu-dev/sessions/issues/550#issuecomment-1314993768) Next feedback
+* [#540](https://github.com/gongfu-dev/sessions/issues/540#issuecomment-1240649475) Previous feedback
 
 
 [olange](https://github.com/olange) | 2022-09-20

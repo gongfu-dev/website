@@ -49,8 +49,8 @@ Realized afterwards that we should probably use an input _array of hashmaps_ in 
 
 ## See also
 
-* [#501](https://github.com/gongfuio/sessions/issues/501#issuecomment-989280143) Previous feedback
-* [#505](https://github.com/gongfuio/sessions/issues/505#issuecomment-1006133946) Next feedback
+* [#501](https://github.com/gongfu-dev/sessions/issues/501#issuecomment-989280143) Previous feedback
+* [#505](https://github.com/gongfu-dev/sessions/issues/505#issuecomment-1006133946) Next feedback
 
 [olange](https://github.com/olange) | 2021-12-16
 

@@ -32,7 +32,7 @@ Wrap-up of our [Gōng-fu I/O Weekly · Hack Session #603 ✼ Remotely ✼](https
 
 Created following repository with sample code:
 
-* [@gongfuio/learning-lit-signals](https://github.com/gongfuio/learning-lit-signals)
+* [@gongfuio/learning-lit-signals](https://github.com/gongfu-dev/learning-lit-signals)
 
 More to study:
 
@@ -40,8 +40,8 @@ More to study:
 
 ## See also
 
-* [#607](https://github.com/gongfuio/sessions/issues/607#issuecomment-1865262401) Next feedback
-* [#599](https://github.com/gongfuio/sessions/issues/599#issuecomment-1780019654) Previous feedback
+* [#607](https://github.com/gongfu-dev/sessions/issues/607#issuecomment-1865262401) Next feedback
+* [#599](https://github.com/gongfu-dev/sessions/issues/599#issuecomment-1780019654) Previous feedback
 
 [olange](https://github.com/olange) | 2023-11-22
 

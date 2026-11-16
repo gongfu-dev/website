@@ -38,12 +38,12 @@ Wrap-up of our [Gōng-fu I/O Weekly · Hack Session #491 ✼ Remotely ✼](https
 
 And we added a status note to the project README on GitHub and on the deployed landing page, to make it clear that the project is in early development stage.
 
-The [upgrades to the project dependencies described last week](https://github.com/gongfuio/sessions/issues/490#issuecomment-925365087) are still pending and we'll address them in an upcoming session.
+The [upgrades to the project dependencies described last week](https://github.com/gongfu-dev/sessions/issues/490#issuecomment-925365087) are still pending and we'll address them in an upcoming session.
 
 ## See also
 
-* [#490](https://github.com/gongfuio/sessions/issues/490#issuecomment-925365087) Previous feedback
-* [#494](https://github.com/gongfuio/sessions/issues/494#issuecomment-948046523) Next feedback
+* [#490](https://github.com/gongfu-dev/sessions/issues/490#issuecomment-925365087) Previous feedback
+* [#494](https://github.com/gongfu-dev/sessions/issues/494#issuecomment-948046523) Next feedback
 
 [olange](https://github.com/olange) | 2021-09-29
 

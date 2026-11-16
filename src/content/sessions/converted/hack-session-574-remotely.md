@@ -47,8 +47,8 @@ Upcoming work:
 
 ## See also
 
-* [#586](https://github.com/gongfuio/sessions/issues/586#issuecomment-1653699696) Next feedback
-* [#569](https://github.com/gongfuio/sessions/issues/569#issuecomment-1489476902) Previous feedback
+* [#586](https://github.com/gongfu-dev/sessions/issues/586#issuecomment-1653699696) Next feedback
+* [#569](https://github.com/gongfu-dev/sessions/issues/569#issuecomment-1489476902) Previous feedback
 
 [olange](https://github.com/olange) | 2023-05-04
 

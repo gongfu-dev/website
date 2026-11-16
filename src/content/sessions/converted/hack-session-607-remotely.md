@@ -45,8 +45,8 @@ Nous avons aussi parlé de, entre autres:
 
 ## See also
 
-* [#619](https://github.com/gongfudev/sessions/issues/619#issuecomment-1996004598) Next feedback
-* [#603](https://github.com/gongfuio/sessions/issues/603#issuecomment-1823615002) Previous feedback
+* [#619](https://github.com/gongfu-dev/sessions/issues/619#issuecomment-1996004598) Next feedback
+* [#603](https://github.com/gongfu-dev/sessions/issues/603#issuecomment-1823615002) Previous feedback
 
 [olange](https://github.com/olange) | 2023-12-20
 

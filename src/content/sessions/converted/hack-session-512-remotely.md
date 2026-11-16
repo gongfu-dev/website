@@ -38,8 +38,8 @@ After 4 weeks of a stop, because @olange was travelling abroad in family, it was
 
 ## See also
 
-* [#505](https://github.com/gongfuio/sessions/issues/505#issuecomment-1006133946) Previous feedback
-* [#516](https://github.com/gongfuio/sessions/issues/516#issuecomment-1076900328) Next feedback
+* [#505](https://github.com/gongfu-dev/sessions/issues/505#issuecomment-1006133946) Previous feedback
+* [#516](https://github.com/gongfu-dev/sessions/issues/516#issuecomment-1076900328) Next feedback
 
 [olange](https://github.com/olange) | 2022-02-23
 

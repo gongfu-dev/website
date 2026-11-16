@@ -37,8 +37,8 @@ Wrap-up of our [Gōng-fu I/O Weekly · Hack Session #566 ✼ Remotely ✼](https
 
 ## See also
 
-* [#567](https://github.com/gongfuio/sessions/issues/567#issuecomment-1479990388) Next feedback
-* [#551](https://github.com/gongfuio/sessions/issues/551#issuecomment-1323324799) Previous feedback
+* [#567](https://github.com/gongfu-dev/sessions/issues/567#issuecomment-1479990388) Next feedback
+* [#551](https://github.com/gongfu-dev/sessions/issues/551#issuecomment-1323324799) Previous feedback
 
 
 [olange](https://github.com/olange) | 2023-03-09

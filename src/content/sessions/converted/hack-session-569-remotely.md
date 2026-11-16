@@ -59,8 +59,8 @@ We wondered what JS ports or alternatives would be available! no ports, Charmbra
 
 ## See also
 
-* [#574](https://github.com/gongfuio/sessions/issues/574#issuecomment-1534374365) Next feedback
-* [#567](https://github.com/gongfuio/sessions/issues/567#issuecomment-1479990388) Previous feedback
+* [#574](https://github.com/gongfu-dev/sessions/issues/574#issuecomment-1534374365) Next feedback
+* [#567](https://github.com/gongfu-dev/sessions/issues/567#issuecomment-1479990388) Previous feedback
 
 
 [olange](https://github.com/olange) | 2023-03-29

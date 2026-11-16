@@ -16,7 +16,7 @@ Wrap-up of our [Gōng-fu DEV Weekly · Hack Session #627 ✼ Remotely ✼](https
 
 ### Projects
 
-• [Gōng-fu DEV's new website](https://github.com/gongfudev/website) with [Astro](https://astro.build/) — @olange and @rudifa
+• [Gōng-fu DEV's new website](https://github.com/gongfu-dev/website) with [Astro](https://astro.build/) — @olange and @rudifa
 • [Flutter](https://flutter.dev) — @andreaskundig and @david-hodgetts
 
 ### See also

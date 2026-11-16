@@ -35,8 +35,8 @@ https://observablehq.com/@rudifa/hexagonal-grids/2
 
 ## See also
 
-* [#491](https://github.com/gongfuio/sessions/issues/491#issuecomment-930571482) Previous feedback
-* [#495](https://github.com/gongfuio/sessions/issues/495#issuecomment-953724751) Next feedback
+* [#491](https://github.com/gongfu-dev/sessions/issues/491#issuecomment-930571482) Previous feedback
+* [#495](https://github.com/gongfu-dev/sessions/issues/495#issuecomment-953724751) Next feedback
 
 [olange](https://github.com/olange) | 2021-10-20
 

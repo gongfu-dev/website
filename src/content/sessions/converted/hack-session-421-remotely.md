@@ -14,7 +14,7 @@ audiences: []
 
 * [Bouboucle Server](https://github.com/andreaskundig/bou-serveur), back-end server in Clojure — @david-hodgetts et @andreaskundig
 * [inBoids: visualizing primary emotions](https://social-dynamics.net/boids/)  — @qintheory
-* [HappUI](https://github.com/gongfuio/happui), ajout nouveaux contrôles — @rudifa, @egoes et @olange
+* [HappUI](https://github.com/gongfu-dev/happui), ajout nouveaux contrôles — @rudifa, @egoes et @olange
 
 ## Références
 

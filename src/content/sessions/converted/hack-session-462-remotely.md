@@ -37,8 +37,8 @@ https://h3geo.org/docs/core-library/filters
 
 ## See also
 
-* [More issues with comments](https://github.com/gongfuio/sessions/issues?q=is%3Aissue+comments%3A%3E0+) All previous feedback
-* [#463](https://github.com/gongfuio/sessions/issues/463#issuecomment-796625983) Next feedback
+* [More issues with comments](https://github.com/gongfu-dev/sessions/issues?q=is%3Aissue+comments%3A%3E0+) All previous feedback
+* [#463](https://github.com/gongfu-dev/sessions/issues/463#issuecomment-796625983) Next feedback
 
 [olange](https://github.com/olange) | 2021-03-11
 

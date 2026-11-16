@@ -43,8 +43,8 @@ Continued working on our [‹h3-minimap› web component](https://observablehq.c
 
 ## See also
 
-* [#498](https://github.com/gongfuio/sessions/issues/498#issuecomment-984152481) Previous feedback
-* [#500](https://github.com/gongfuio/sessions/issues/500#issuecomment-984143254) Next feedback
+* [#498](https://github.com/gongfu-dev/sessions/issues/498#issuecomment-984152481) Previous feedback
+* [#500](https://github.com/gongfu-dev/sessions/issues/500#issuecomment-984143254) Next feedback
 
 [olange](https://github.com/olange) | 2021-12-01
 

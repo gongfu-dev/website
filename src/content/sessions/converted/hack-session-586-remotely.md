@@ -35,8 +35,8 @@ Rencontre avec [Colas Droin](https://github.com/ColasDroin). Echange d'expérien
 
 ## See also
 
-* [#587](https://github.com/gongfuio/sessions/issues/587#issuecomment-1662934725) Next feedback
-* [#574](https://github.com/gongfuio/sessions/issues/574#issuecomment-1534374365) Previous feedback
+* [#587](https://github.com/gongfu-dev/sessions/issues/587#issuecomment-1662934725) Next feedback
+* [#574](https://github.com/gongfu-dev/sessions/issues/574#issuecomment-1534374365) Previous feedback
 
 [olange](https://github.com/olange) | 2023-07-27
 

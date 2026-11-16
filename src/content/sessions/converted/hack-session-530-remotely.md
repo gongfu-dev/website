@@ -59,8 +59,8 @@ I remembered Redis' small memory footprint, great performance and success we had
 
 ## See also
 
-* [#534](https://github.com/gongfuio/sessions/issues/534#issuecomment-1198135794) Next feedback
-* [#529](https://github.com/gongfuio/sessions/issues/529#issuecomment-1164293794) Previous feedback
+* [#534](https://github.com/gongfu-dev/sessions/issues/534#issuecomment-1198135794) Next feedback
+* [#529](https://github.com/gongfu-dev/sessions/issues/529#issuecomment-1164293794) Previous feedback
 
 [olange](https://github.com/olange) | 2022-07-06
 

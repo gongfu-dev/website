@@ -70,8 +70,8 @@ One of many questions. May be I'll break the notebook in various individual expe
 
 ## See also
 
-* [#536](https://github.com/gongfuio/sessions/issues/536) Next feedback
-* [#530](https://github.com/gongfuio/sessions/issues/530#issuecomment-1176576784) Previous feedback
+* [#536](https://github.com/gongfu-dev/sessions/issues/536) Next feedback
+* [#530](https://github.com/gongfu-dev/sessions/issues/530#issuecomment-1176576784) Previous feedback
 
 [olange](https://github.com/olange) | 2022-07-28
 

@@ -34,8 +34,8 @@ Reviewed and worked on [PR #1](https://github.com/olange/h3-worldmap/pull/1) fro
 
 ## See also
 
-* [#517](https://github.com/gongfuio/sessions/issues/517#issuecomment-1084323966) Previous feedback
-* [#525](https://github.com/gongfuio/sessions/issues/525#issuecomment-1137916208) Next feedback
+* [#517](https://github.com/gongfu-dev/sessions/issues/517#issuecomment-1084323966) Previous feedback
+* [#525](https://github.com/gongfu-dev/sessions/issues/525#issuecomment-1137916208) Next feedback
 
 [olange](https://github.com/olange) | 2022-04-14
 

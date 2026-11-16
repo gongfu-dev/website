@@ -17,7 +17,7 @@ audiences: []
 
 <hr/>
 
-See also the articles cited in latest [comment of #462](https://github.com/gongfuio/sessions/issues/462#issuecomment-796625433).
+See also the articles cited in latest [comment of #462](https://github.com/gongfu-dev/sessions/issues/462#issuecomment-796625433).
 
 [olange](https://github.com/olange) | 2021-03-11
 
@@ -25,7 +25,7 @@ See also the articles cited in latest [comment of #462](https://github.com/gongf
 
 ## Feedback on study of @olange and @rudifa
 
-See also the articles cited in latest [comment of #462](https://github.com/gongfuio/sessions/issues/462#issuecomment-796625433) (copy-paste of above comment).
+See also the articles cited in latest [comment of #462](https://github.com/gongfu-dev/sessions/issues/462#issuecomment-796625433) (copy-paste of above comment).
 
 ### Location of origin _game board_ in the _game world_
 
@@ -43,8 +43,8 @@ $ geoToH3 --resolution 15 --latitude 46.1856616 --longitude 6.1579908
 
 ## See also
 
-* [#462](https://github.com/gongfuio/sessions/issues/462#issuecomment-796625433) Previous feedback
-* [#473](https://github.com/gongfuio/sessions/issues/473#issuecomment-853287830) Next feedback
+* [#462](https://github.com/gongfu-dev/sessions/issues/462#issuecomment-796625433) Previous feedback
+* [#473](https://github.com/gongfu-dev/sessions/issues/473#issuecomment-853287830) Next feedback
 
 [olange](https://github.com/olange) | 2021-03-17
 

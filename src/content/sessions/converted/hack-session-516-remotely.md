@@ -36,8 +36,8 @@ Looked at source code of various [Hexgrid JS libraries](https://www.redblobgames
 
 ## See also
 
-* [#512](https://github.com/gongfuio/sessions/issues/512#issuecomment-1049279776) Previous feedback
-* [#517](https://github.com/gongfuio/sessions/issues/517#issuecomment-1084323966) Next feedback
+* [#512](https://github.com/gongfu-dev/sessions/issues/512#issuecomment-1049279776) Previous feedback
+* [#517](https://github.com/gongfu-dev/sessions/issues/517#issuecomment-1084323966) Next feedback
 
 [olange](https://github.com/olange) | 2022-03-23
 

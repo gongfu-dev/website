@@ -43,8 +43,8 @@ as well as all examples of the [Lit Playground](https://lit.dev/playground/).
 
 ## See also
 
-* [#516](https://github.com/gongfuio/sessions/issues/516#issuecomment-1076900328) Previous feedback
-* [#519](https://github.com/gongfuio/sessions/issues/519#issuecomment-1099403693) Next feedback
+* [#516](https://github.com/gongfu-dev/sessions/issues/516#issuecomment-1076900328) Previous feedback
+* [#519](https://github.com/gongfu-dev/sessions/issues/519#issuecomment-1099403693) Next feedback
 
 [olange](https://github.com/olange) | 2022-03-31
 

@@ -38,8 +38,8 @@ Also we will probably replace Firebase with [GUN](https://github.com/amark/gun),
 
 ## See also
 
-* [#474](https://github.com/gongfuio/sessions/issues/474#issuecomment-853290312) Previous feedback
-* [#491](https://github.com/gongfuio/sessions/issues/491#issuecomment-930571482) Next feedback
+* [#474](https://github.com/gongfu-dev/sessions/issues/474#issuecomment-853290312) Previous feedback
+* [#491](https://github.com/gongfu-dev/sessions/issues/491#issuecomment-930571482) Next feedback
 
 [olange](https://github.com/olange) | 2021-09-22
 
