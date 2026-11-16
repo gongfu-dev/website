@@ -1,0 +1,174 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+import ContactCTA from '../../components/ContactCTA.astro';
+import Hero from '../../components/Hero.astro';
+import Icon from '../../components/Icon.astro';
+
+const slidesUrl = 'https://talks.gongfu.dev/10-min/';
+const sourceUrl = 'https://github.com/gongfudev/talks/tree/gh-pages/10-min';
+---
+
+<BaseLayout
+	title="Gōng-fu I/O en 10 min. | Talks | Gōng-fu DEV"
+	description="Ten-minute presentation of the Gōng-fu I/O hack sessions, given at the Geneva JUG on 27 May 2014"
+>
+	<div class="stack gap-20">
+		<div class="stack gap-15">
+			<header>
+				<div class="wrapper stack gap-2">
+					<a class="back-link" href="/talks/"><Icon icon="arrow-left" /> Talks</a>
+					<Hero title="Gōng-fu I/O en 10 min." align="start">
+						<div class="details">
+							<p class="description">
+								A ten-minute presentation of our hack sessions — studying and exploring together:
+								why, for whom, and how it works in practice.
+							</p>
+							<a class="slides-link" href={slidesUrl}>View the slides</a>
+						</div>
+					</Hero>
+				</div>
+			</header>
+			<main class="wrapper">
+				<div class="stack gap-10 content">
+					<a href={slidesUrl}>
+						<img
+							width="1440"
+							height="888"
+							src="/assets/talks/gongfu-io-en-10-min.jpg"
+							alt="Participants of a Gōng-fu I/O session working around a table"
+						/>
+					</a>
+					<div class="content">
+						<dl>
+							<dt>Event</dt>
+							<dd>Geneva JUG, 27 May 2014</dd>
+							<dt>Speakers</dt>
+							<dd>David Hodgetts and Olivier Lange, with Andreas Kündig</dd>
+							<dt>Language</dt>
+							<dd>French</dd>
+						</dl>
+						<p>
+							The talk walks through what a Gōng-fu session is (and isn't): a simple and very old
+							idea, a time set aside to go back to the sources and study them for oneself, to study
+							and explore together — in pairs or solo, on a regular basis, sharing what was learned.
+							It closes on who the sessions are for, why we run them, and what the name Gōng-fu
+							means.
+						</p>
+						<p>
+							The <a href={slidesUrl}>slides</a> were built with
+							<a href="https://github.com/impress/impress.js">impress.js</a>; they are best viewed
+							full-screen on a desktop browser. Their <a href={sourceUrl}>source</a> is available on
+							GitHub under a
+							<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> license.
+						</p>
+						<p>
+							Note: the group was named Gōng-fu I/O until 2023, when it was renamed Gōng-fu DEV;
+							the slides still use the former name.
+						</p>
+					</div>
+				</div>
+			</main>
+		</div>
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	header {
+		padding-bottom: 2.5rem;
+		border-bottom: 1px solid var(--gray-800);
+	}
+
+	.back-link {
+		display: none;
+	}
+
+	.details {
+		display: flex;
+		flex-direction: column;
+		padding: 0.5rem;
+		gap: 1.5rem;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.description {
+		font-size: var(--text-lg);
+		max-width: 54ch;
+	}
+
+	.slides-link {
+		flex-shrink: 0;
+		padding: 0.5rem 1.25rem;
+		border-radius: 999rem;
+		color: var(--accent-text-over);
+		background-color: var(--accent-regular);
+		font-family: var(--font-brand);
+		font-weight: 500;
+		text-decoration: none;
+		box-shadow: var(--shadow-sm);
+	}
+
+	.slides-link:hover,
+	.slides-link:focus {
+		box-shadow: var(--shadow-md);
+	}
+
+	.content {
+		max-width: 65ch;
+		margin-inline: auto;
+	}
+
+	.content > :global(* + *) {
+		margin-top: 1rem;
+	}
+
+	.content img {
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-sm);
+		background: var(--gradient-subtle);
+		border: 1px solid var(--gray-800);
+	}
+
+	dl {
+		display: grid;
+		grid-template-columns: auto 1fr;
+		gap: 0.25rem 1.5rem;
+	}
+
+	dt {
+		color: var(--gray-0);
+		font-weight: 600;
+	}
+
+	dd {
+		margin: 0;
+	}
+
+	.back-link,
+	.content a {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.back-link:hover,
+	.back-link:focus,
+	.content a:hover,
+	.content a:focus {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.back-link {
+			display: block;
+			align-self: flex-start;
+		}
+
+		.details {
+			flex-direction: row;
+			gap: 2.5rem;
+		}
+	}
+</style>
