@@ -13,7 +13,17 @@ export default defineConfig({
   experimental: {
     env: {
       schema: {
-        // Site metadata — import with `import { DISCORD_INVITE_URL } from "astro:env/client"`
+        // Site metadata — import with e.g. `import { GITHUB_URL } from "astro:env/client"`
+        TWITTER_URL: envField.string({
+          context: "client",
+          access: "public",
+          default: "https://twitter.com/gongfudev",
+        }),
+        GITHUB_URL: envField.string({
+          context: "client",
+          access: "public",
+          default: "https://github.com/gongfu-dev",
+        }),
         DISCORD_INVITE_URL: envField.string({
           context: "client",
           access: "public",
