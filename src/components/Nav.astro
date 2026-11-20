@@ -2,6 +2,7 @@
 import Icon from './Icon.astro';
 import ThemeToggle from './ThemeToggle.astro';
 import type { iconPaths } from './IconPaths';
+import { DISCORD_INVITE_URL } from 'astro:env/client';
 
 /** Main menu items */
 const textLinks: { label: string; href: string }[] = [
@@ -15,6 +16,7 @@ const textLinks: { label: string; href: string }[] = [
 const iconLinks: { label: string; href: string; icon: keyof typeof iconPaths }[] = [
 	{ label: 'Twitter', href: 'https://twitter.com/gongfudev', icon: 'twitter-logo' },
 	{ label: 'GitHub', href: 'https://github.com/gongfu-dev', icon: 'github-logo' },
+	{ label: 'Discord', href: DISCORD_INVITE_URL, icon: 'discord-logo' },
 ];
 ---
 

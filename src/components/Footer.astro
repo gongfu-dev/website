@@ -1,5 +1,6 @@
 ---
 import Icon from './Icon.astro';
+import { DISCORD_INVITE_URL } from 'astro:env/client';
 const currentYear = new Date().getFullYear();
 ---
 
@@ -19,6 +20,7 @@ const currentYear = new Date().getFullYear();
 	<p class="socials">
 		<a href="https://twitter.com/gongfudev"> Twitter</a>
 		<a href="https://github.com/gongfu-dev"> GitHub</a>
+		<a href={DISCORD_INVITE_URL}> Discord</a>
 	</p>
 </footer>
 <style>

@@ -1,4 +1,4 @@
-import { defineConfig } from "astro/config";
+import { defineConfig, envField } from "astro/config";
 import { viteStaticCopy } from "vite-plugin-static-copy";
 
 import vercel from '@astrojs/vercel/static';
@@ -10,6 +10,18 @@ export default defineConfig({
     webAnalytics: { enabled: true },
   }),
   integrations: [],
+  experimental: {
+    env: {
+      schema: {
+        // Site metadata — import with `import { DISCORD_INVITE_URL } from "astro:env/client"`
+        DISCORD_INVITE_URL: envField.string({
+          context: "client",
+          access: "public",
+          default: "https://discord.gg/Z2X68VvHem",
+        }),
+      },
+    },
+  },
   vite: {
     plugins: [
       viteStaticCopy({

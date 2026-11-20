@@ -1,13 +1,14 @@
 ---
 import CallToAction from './CallToAction.astro';
 import Icon from './Icon.astro';
+import { DISCORD_INVITE_URL } from 'astro:env/client';
 ---
 
 <aside>
 	<h2>Interested in participating?</h2>
-	<CallToAction href="https://www.meetup.com/fr-FR/gōngfudev/">
-		Join our Meetup
-		<Icon icon="paper-plane-tilt" size="1.2em" />
+	<CallToAction href={DISCORD_INVITE_URL}>
+		Join our Discord
+		<Icon icon="discord-logo" size="1.2em" />
 	</CallToAction>
 </aside>
 
