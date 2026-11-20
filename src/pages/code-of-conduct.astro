@@ -1,0 +1,92 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+
+import { Content } from '../data/code-of-conduct.md';
+---
+
+<BaseLayout
+	title="Code of Conduct | Gōng-fu DEV"
+	description="Code of Conduct of the Gōng-fu DEV community, adapted from the Contributor Covenant 3.0"
+>
+	<div class="stack gap-20">
+		<div class="stack gap-15">
+			<header>
+				<div class="wrapper">
+					<Hero title="Code of Conduct" tagline="Contributor Covenant 3.0 Code of Conduct" />
+				</div>
+			</header>
+			<main class="wrapper">
+				<div class="content">
+					<Content />
+				</div>
+			</main>
+		</div>
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	header {
+		padding-bottom: 2.5rem;
+		border-bottom: 1px solid var(--gray-800);
+	}
+
+	.content {
+		max-width: 65ch;
+		margin-inline: auto;
+	}
+
+	.content > :global(* + *) {
+		margin-top: 1rem;
+	}
+
+	.content :global(h2),
+	.content :global(h3) {
+		margin-top: 2.5rem;
+		color: var(--gray-0);
+	}
+
+	.content :global(h2) {
+		font-size: var(--text-2xl);
+	}
+
+	.content :global(h3) {
+		font-size: var(--text-xl);
+	}
+
+	.content :global(ol) {
+		padding-inline-start: 1.5rem;
+	}
+
+	.content :global(ol ol) {
+		margin-top: 0.25rem;
+		list-style-type: lower-alpha;
+	}
+
+	.content :global(li + li) {
+		margin-top: 0.5rem;
+	}
+
+	.content :global(ol ol li + li) {
+		margin-top: 0.25rem;
+	}
+
+	.content :global(strong) {
+		color: var(--gray-0);
+	}
+
+	.content :global(a) {
+		overflow-wrap: anywhere;
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+</style>
